@@ -1,12 +1,3 @@
-
-/**
- * @introduction  webapck config
- * @authors       Tongao (email:tongao@yhd.cn)
- * @date          DATE
- * @update        DATE
- */
-
-
 'use strict';
 
 const path = require('path');
